@@ -118,7 +118,13 @@ export default {
 .article-item-post-container {
   img {
     max-width: 100%;
-    padding: 25px;
+    margin: auto;
+    display: block;
+  }
+
+  .img-caption {
+    text-align: center;
+    margin-bottom: 1.25rem;
   }
 }
 

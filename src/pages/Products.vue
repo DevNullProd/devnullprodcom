@@ -26,7 +26,7 @@
           </div>
           <div class="section-container section-container-2 d-flex">
             <div class="circle-image">
-              <img src="@/assets/imgs/image1.svg" />
+              <img src="@/assets/imgs/image1.png" />
             </div>
             <div class="circle-image">
               <img src="@/assets/imgs/image2.png" />

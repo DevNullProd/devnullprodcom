@@ -34,7 +34,7 @@
               Designed for convenience, built for scalibility. 
             </h4>
             <p class="section-header-description">
-              Over the years, we've heard our users. With multiple of developement cycles,  we are proudly be the product leader for Blockchain tracking.
+              Over the years, we've intently listened to our users to meet their needs. With a multitude of agile developement cycles, we are proud to be the product leader for Blockchain tracking.
             </p>
             <div class="image-card d-flex">
               <div class="image-card__image">
@@ -140,7 +140,7 @@ export default {
 #title_wrapper{
   width: 100%;
   min-height: 904px;
-  padding-top: 34vh;
+  padding-top: 24vh;
   background-position: center;
   background-size: cover;
   text-align: center;
