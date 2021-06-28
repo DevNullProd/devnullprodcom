@@ -118,13 +118,14 @@ export default {
 .article-item-post-container {
   img {
     max-width: 100%;
-    margin: auto;
     display: block;
+    margin: auto;
   }
 
   .img-caption {
     text-align: center;
     margin-bottom: 1.25rem;
+    font-style: italic;
   }
 }
 
