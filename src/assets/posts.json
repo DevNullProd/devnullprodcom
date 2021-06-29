@@ -1,31 +1,38 @@
 [
   {
-    "path" : "beyond-the-hype-defi-nfts-smart-contacts",
+    "path" : "blocktrac-tutorial",
+    "title" : "BlockTrac Tutorial",
+    "summary" : "BlockTrac is an exciting service from Dev Null Productions that allows you to setup alerts to receive notifications from blockchain activity. In this article we will demonstrate how to setup your first filter!",
+    "tags" : "blocktrac, blockchain, alerts",
+    "date" : "2021-09-03T11:35:00Z"
+  },
+  {
+    "path" : "beyond-the-hype-defi-nfts-smart-contracts",
     "title" : "Beyond the hype: DeFI, NFTs, and Smart Contracts",
-    "summary" : "",
+    "summary" : "DeFI, NFTs, and Smart Contracts are exciting new applications of the blockchain, but what does it all mean?! ...Let's find out!",
     "tags" : "defi, nft, smart contracts",
-    "date" : "2021-08-15T14:00:00Z"
+    "date" : "2021-08-26T14:00:00Z"
   },
   {
     "path" : "decentralization-key-metrics",
     "title" : "Decentralization: Key Metrics",
-    "summary" : "",
+    "summary" : "Decentralization is a key aspect of cryptocurrencies and blockchain technology, let's explore what decentralization means exactly and how it is measured",
     "tags" : "decentralization, metrics",
-    "date" : "2021-08-09T23:47:00Z"
+    "date" : "2021-08-18T23:47:00Z"
   },
   {
     "path" : "blockchain-strengths-weaknesses",
     "title" : "Blockhain: Strengths and Weaknesses",
-    "summary" : "",
+    "summary" : "In this article we explore the things blockchain technology does best and areas where it lacks.",
     "tags" : "blockchain, analysis, comparison",
-    "date" : "2021-08-05T09:05:00Z"
+    "date" : "2021-08-10T09:05:00Z"
   },
   {
     "path" : "crypto-from-genesis-to-now",
     "title" : "Crypto: From Genesis To Now",
     "summary" : "Join us as we explore the history of cryptocurrencies from its early monetary roots, to libertarian ideals, to speculative market action and more",
     "tags" : "cryptocurrencies, blockchain, history",
-    "date" : "2021-08-01T17:45:00Z"
+    "date" : "2021-08-02T17:45:00Z"
   },
   {
     "path" : "xrp_vs_xlm_pt4",
@@ -51,7 +58,7 @@
   {
     "path" : "xrp_vs_xlm_pt1",
     "title" : "XRP vs XLM - A Technical Comparison - Part 1",
-    "summary" : "XRP and XLM are Blockchain technologies facilitating high transfer rates and the issuance and exchange of digital assets. Read our analysis of the technical differences between these cryptocurrencies.",
+    "summary" : "XRP and XLM are blockchain technologies facilitating high transfer rates and the issuance and exchange of digital assets. Read our analysis of the technical differences between these cryptocurrencies.",
     "tags" : "xrp, xlm, technical",
     "date" : "2021-02-23T11:56:00Z"
   },
