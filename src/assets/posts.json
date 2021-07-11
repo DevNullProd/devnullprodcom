@@ -1,5 +1,12 @@
 [
   {
+    "path" : "tapping-into-future-payments",
+    "title" : "Tapping into The Future of Payment Systems",
+    "summary" : "...",
+    "tags" : "...",
+    "date" : "2021-09-13T20:00:00Z"
+  },
+  {
     "path" : "blocktrac-tutorial",
     "title" : "BlockTrac Tutorial",
     "summary" : "BlockTrac is an exciting service from Dev Null Productions that allows you to setup alerts to receive notifications from blockchain activity. In this article we will demonstrate how to setup your first filter!",
