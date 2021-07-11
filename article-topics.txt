@@ -1,0 +1,26 @@
+Dev Null Productions' Article Topics:
+
+- byzantine consensus, how it works
+- blockchain governance structures
+- blocktr.ac usage scenarios
+  - setting up an e-commerce shop which accepts crypto
+  - watching whale movements
+  - monitoring exchange traffic
+- crypto: where do we go next
+- history of money, why digital assets are here to say
+- finance of tommorow: what does the near to long term future look like?
+- blockchain processing transaction strategies (w/ code examples)
+- nft mayham: what do we make out of it?
+- best have cryptocurrency features, those most wanted
+- surviving the next crypto winter: things you can do
+- visualizing the blockchain: some neat projects
+- developing the next big blockchain-based app
+- machine learning, ar, and crypto - straight out of scifi
+
+Done:
+- crypto: from genesis to now (promise)
+- what does blockchain do best? where does it lack? (kelchi)
+- decentralization: key metrics (promise)
+- beyond the hype: defi, nfts, smart contracts (kelchi)
+- blocktr.ac tutorial (promise)
+- tapping into the future of payment systems (kelchi)
