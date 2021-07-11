@@ -4,7 +4,7 @@ When it comes to the world of digital currencies, one of the challenges new user
 
 ![blocktrac landing page](@/assets/posts/blocktrac-tutorial/landing-page.png)
 
-With Block Trac you have the ability to see transactions conducted on many Blockchain real-time. Automatically dive into the details of each and every transaction, and setup filters so that you receive notifications of exactly what you want and no more.
+With Block Trac you have the ability to see transactions conducted on many Blockchains in real time. Automatically dive into the details of each and every transaction, and setup filters so that you receive notifications of exactly what you want and nothing else.
 
 Notifications can be sent to your inbox, smart device, or API, facilitating plug-and-play integrations into any automated system. By using a comprehensive and strong *pattern matching system*, Block Trac allows the inclusion (and/or exclusion) of specific transactions of interest.
 
@@ -51,7 +51,7 @@ Let's say we want to see XRP transactions which pay abnormally high fees. The ty
 - Select 'Minimum Fee'
 - Set the fee to '30' drops
 - Set the filter name
-- Click 'Ok'
+- Click 'Create Filter'
 
 You will then be prompted to login or register. See below for instructions on that process.
 
@@ -67,7 +67,7 @@ To create a new expression based filter.
 - Select the Blockchain to monitor
 - Enter the expression to use as the basis of the filter (see below)
 - Set the filter name
-- Click 'OK'
+- Click 'Create Filter'
 
 Again you will be prompted to login or register (see below).
 
