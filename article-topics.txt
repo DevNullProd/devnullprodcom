@@ -1,6 +1,5 @@
 Dev Null Productions' Article Topics:
 
-- byzantine consensus, how it works
 - blockchain governance structures
 - blocktr.ac usage scenarios
   - setting up an e-commerce shop which accepts crypto
@@ -13,9 +12,11 @@ Dev Null Productions' Article Topics:
 - nft mayham: what do we make out of it?
 - best have cryptocurrency features, those most wanted
 - surviving the next crypto winter: things you can do
-- visualizing the blockchain: some neat projects
 - developing the next big blockchain-based app
 - machine learning, ar, and crypto - straight out of scifi
+
+In progress:
+- visualizing the blockchain: some neat projects
 
 Done:
 - crypto: from genesis to now (promise)
@@ -24,3 +25,4 @@ Done:
 - beyond the hype: defi, nfts, smart contracts (kelchi)
 - blocktr.ac tutorial (promise)
 - tapping into the future of payment systems (kelchi)
+- byzantine consensus, how it works

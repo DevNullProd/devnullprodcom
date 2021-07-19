@@ -1,45 +1,59 @@
 [
   {
+    "path" : "byzantine-consensus-how-it-works",
+    "title" : "Byzantine Consensus: How It Works",
+    "summary" : "Byazantine Consensus allows independent participants in a network to come to an agreement, even if a number of them are malicious. It is being used by next-generation blockchain technologies to optimize operations which preserving the integrity of the system. Read on to find how it works.",
+    "tags" : "byanine consensus, blockchain, technology",
+    "date" : "2021-09-29T15:30:00Z",
+    "disabled" : true
+  },
+  {
     "path" : "tapping-into-future-payments",
     "title" : "Tapping into The Future of Payment Systems",
     "summary" : "In this article we explore the differences between legacy payment systems and the Blockchain and explore how society will bridge the gap",
     "tags" : "legacy, blockchain, integrations",
-    "date" : "2021-09-13T20:00:00Z"
+    "date" : "2021-09-13T20:00:00Z",
+    "disabled" : true
   },
   {
     "path" : "blocktrac-tutorial",
     "title" : "BlockTrac Tutorial",
     "summary" : "BlockTrac is an exciting service from Dev Null Productions that allows you to setup alerts to receive notifications from blockchain activity. In this article we will demonstrate how to setup your first filter!",
     "tags" : "blocktrac, blockchain, alerts",
-    "date" : "2021-09-03T11:35:00Z"
+    "date" : "2021-09-03T11:35:00Z",
+    "disabled" : true
   },
   {
     "path" : "beyond-the-hype-defi-nfts-smart-contracts",
     "title" : "Beyond the hype: DeFI, NFTs, and Smart Contracts",
     "summary" : "DeFI, NFTs, and Smart Contracts are exciting new applications of the blockchain, but what does it all mean?! ...Let's find out!",
     "tags" : "defi, nft, smart contracts",
-    "date" : "2021-08-26T14:00:00Z"
+    "date" : "2021-08-26T14:00:00Z",
+    "disabled" : true
   },
   {
     "path" : "decentralization-key-metrics",
     "title" : "Decentralization: Key Metrics",
     "summary" : "Decentralization is a key aspect of cryptocurrencies and blockchain technology, let's explore what decentralization means exactly and how it is measured",
     "tags" : "decentralization, metrics",
-    "date" : "2021-08-18T23:47:00Z"
+    "date" : "2021-08-18T23:47:00Z",
+    "disabled" : true
   },
   {
     "path" : "blockchain-strengths-weaknesses",
     "title" : "Blockhain: Strengths and Weaknesses",
     "summary" : "In this article we explore the things blockchain technology does best and areas where it lacks.",
     "tags" : "blockchain, analysis, comparison",
-    "date" : "2021-08-10T09:05:00Z"
+    "date" : "2021-08-10T09:05:00Z",
+    "disabled" : true
   },
   {
     "path" : "crypto-from-genesis-to-now",
     "title" : "Crypto: From Genesis To Now",
     "summary" : "Join us as we explore the history of cryptocurrencies from its early monetary roots, to libertarian ideals, to speculative market action and more",
     "tags" : "cryptocurrencies, blockchain, history",
-    "date" : "2021-08-02T17:45:00Z"
+    "date" : "2021-08-02T17:45:00Z",
+    "disabled" : true
   },
   {
     "path" : "xrp_vs_xlm_pt4",
