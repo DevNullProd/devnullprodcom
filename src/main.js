@@ -19,6 +19,7 @@ Vue.use(VueRouter)
 import Landing          from "./pages/Landing.vue"
 import About            from "./pages/About.vue"
 import Products         from "./pages/Products.vue"
+import Sandbox          from "./pages/Sandbox.vue"
 
 import Articles         from "./pages/Articles.vue"
 import ArticleDetail    from "./pages/ArticleDetail.vue"
@@ -37,6 +38,7 @@ const routes = [
   { path: "/about",               component: About },
 
   { path: "/products",            component: Products },
+  { path: "/sandbox",             component: Sandbox },
 
   { path: "/articles",            component: Articles },
   { path: "/article",             component: ArticleDetail,
